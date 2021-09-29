@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/dotenv": "^5.3",
+        "nette/mail": "^3.1"
+    }
+}
